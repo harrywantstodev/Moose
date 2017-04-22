@@ -1,0 +1,9 @@
+Package: com.harrywantstodev.moose
+Name: Moose
+Depends: mobilesubstrate, ws.hbang.common, org.thebigboss.libcolorpicker
+Version: 0.1.0
+Architecture: iphoneos-arm
+Description: Choose a custom text selector color!
+Maintainer: harrywantstodev
+Author: harrywantstodev
+Section: Tweaks
